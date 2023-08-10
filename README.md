@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning Machine learning **Deep Neural networks and embedded frameworks like TensorFlow Lite.**
 
-- 👨‍💻 All of my projects are available at [Github profile](Github profile)
+- 👨‍💻 All of my projects are available at (Github profile)
 
 - 💬 Ask me about **Data structures and how artifically intelligent i can be**
 
