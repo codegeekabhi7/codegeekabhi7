@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/thakur_7abhinav" target="blank"><img src="https://img.shields.io/twitter/follow/thakur_7abhinav?logo=twitter&style=for-the-badge" alt="thakur_7abhinav" /></a> </p>
 
-- 🌱 I’m currently learning Machine learning **Deep Neural networks and embedded frameworks like TensorFlow Lite.**
+- 🌱 I’m currently researching on **Deep Neural networks and embedded frameworks like TensorFlow Lite.**
 
 - 👨‍💻 All of my projects are available at (Github profile)
 
